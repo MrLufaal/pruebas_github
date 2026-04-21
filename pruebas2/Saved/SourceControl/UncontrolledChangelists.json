@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Lista de cambios no controlados predeterminada",
+			"files": [
+				"C:/Users/lucat/Documents/Unreal Projects/pruebas2/Content/BP_condicionales.uasset",
+				"C:/Users/lucat/Documents/Unreal Projects/pruebas2/Content/BP_levelup.uasset",
+				"C:/Users/lucat/Documents/Unreal Projects/pruebas2/Content/condicionalesprueba.umap"
+			]
+		}
+	]
+}
