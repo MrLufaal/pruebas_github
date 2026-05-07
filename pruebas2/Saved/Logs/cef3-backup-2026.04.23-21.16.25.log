@@ -1,0 +1,9 @@
+[9460:14896:0423/151409.735:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[9460:14896:0423/151410.403:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[13008:15632:0423/151426.577:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-0BB7223ABABB742B0B5051CC315A7967 will be ignored
+[9460:3044:0423/151430.121:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[9460:14896:0423/151823.527:ERROR:device_event_log_impl.cc(196)] [15:18:23.512] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: No se ha encontrado el elemento. (0x490)
+[9460:14896:0423/160107.928:ERROR:device_event_log_impl.cc(196)] [16:01:07.776] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: No se ha encontrado el elemento. (0x490)
+[9460:14896:0423/160125.496:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[9460:14896:0423/161103.203:ERROR:device_event_log_impl.cc(196)] [16:11:02.993] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: No se ha encontrado el elemento. (0x490)
+[9460:14896:0423/181625.871:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
